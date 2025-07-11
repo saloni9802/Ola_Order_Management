@@ -27,7 +27,12 @@ This repository contains a Power BI report (`Ola.pbix`) that provides detailed d
 * **Custom Visuals** for advanced filtering and mapping
 
 ## 📈 Sample Visuals (Screenshots)
-<img src="screenshots/cancellation" alt="Cancellation" width="450"/>
-<img src="screenshots/overall" alt="Overall" width="450"/>
-<img src="screenshots/revenue" alt="Revenue" width="450"/>
-<img src="screenshots/vehicletype" alt="Vehicletype" width="450"/>
+<p float="left">
+  <img src="screenshots/cancellation" alt="Cancellation" width="450" height="250"/>
+  <img src="screenshots/overall" alt="Overall" width="450" height="250"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/revenue" alt="Revenue" width="450" height="250"/>
+  <img src="screenshots/vehicletype" alt="Vehicletype" width="450" height="250"/>
+</p>
